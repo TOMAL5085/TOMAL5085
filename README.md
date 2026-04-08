@@ -9,7 +9,6 @@
 
 ---
 
-<!-- 🔹 About Me -->
 ## 🧑‍💻 About Me
 
 I am a passionate web development learner focused on building modern and efficient web applications. I enjoy solving real-world problems through code and continuously improving my skills by working on practical projects.
@@ -22,7 +21,6 @@ I am a passionate web development learner focused on building modern and efficie
 
 ---
 
-<!-- 🔹 Skills (Icons, not bullet points) -->
 ## 🛠️ Skills
 
 <p align="center">
@@ -31,18 +29,22 @@ I am a passionate web development learner focused on building modern and efficie
 
 ---
 
-<!-- 🔹 Social Links -->
 ## 🌐 Connect with Me
 
 <p align="center">
-  <a href="https://github.com/TOMAL5085"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github"></a>
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"></a>
-  <a href="mailto:tomal5085@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://github.com/TOMAL5085" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-TOMAL5085-000?style=for-the-badge&logo=github">
+  </a>
+  <a href="https://www.linkedin.com/in/tomal2006/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Tomal-0077B5?style=for-the-badge&logo=linkedin">
+  </a>
+  <a href="mailto:tomal5085@gmail.com">
+    <img src="https://img.shields.io/badge/Email-tomal5085@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
 </p>
 
 ---
 
-<!-- 🔹 GitHub Stats -->
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -59,7 +61,6 @@ I am a passionate web development learner focused on building modern and efficie
 
 ---
 
-<!-- 🔹 Footer -->
 <p align="center">
   ⭐ Always learning & building 🚀
 </p>
