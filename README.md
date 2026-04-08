@@ -48,15 +48,7 @@ I am a passionate web development learner focused on building modern and efficie
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TOMAL5085&show_icons=true&theme=tokyonight&cache_seconds=1800" />
-</p>
-
-<p align="center">
   <img src="https://streak-stats.demolab.com?user=TOMAL5085&theme=tokyonight&cache_seconds=1800" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TOMAL5085&layout=compact&theme=tokyonight&cache_seconds=1800" />
 </p>
 
 ---
