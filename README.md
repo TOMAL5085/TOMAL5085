@@ -80,9 +80,7 @@ I enjoy building real-world software and experimenting with different technologi
   <a href="mailto:tomal5085@gmail.com">
     <img src="https://img.shields.io/badge/Email-tomal5085@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="tel:+8801886194285">
-    <img src="https://img.shields.io/badge/Phone-%2B8801886194285-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-  </a>
+
 </p>
 
 ---
