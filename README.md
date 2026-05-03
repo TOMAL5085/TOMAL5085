@@ -1,15 +1,5 @@
 <p align="center">
-  <img src="1685253299600.jpg" alt="Tomal Signature" width="220" />
-</p>
-
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=00F2FE&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B%2C+I'm+Rezanur+Rahman+Tomal;Full-Stack+Developer+%7C+ML+Practitioner;Cybersecurity+Explorer+%7C+Researcher;Open+to+Collaboration+%26+Tech+Roles" />
-</h1>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=TOMAL5085&label=Profile+Views&color=0e75b6&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Focus-AI%20%26%20Cybersecurity-blueviolet?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Goal-Erasmus%20Mundus%20Scholar-orange?style=for-the-badge" />
+  <img src="1685253299600.jpg" alt="Tomal Signature" width="100%" />
 </p>
 
 ---
