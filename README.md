@@ -2,6 +2,13 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Rezanur%20Rahman%20Tomal&fontSize=42&fontColor=ffffff&desc=AI%20%7C%20Cybersecurity%20%7C%20Full-Stack&descSize=18&descAlignY=72&animation=fadeIn" />
 </p>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/TOMAL5085/TOMAL5085/main/signature.jpg"
+       alt="Tomal's Signature"
+       width="180"
+       style="filter: invert(1) brightness(2); margin-top: -10px;" />
+</p>
+
 <h1 align="center">Hi 👋, I'm Tomal</h1>
 <h3 align="center">🤖 CS Student · AI & Cybersecurity Enthusiast · Aspiring Researcher</h3>
 
