@@ -1,34 +1,32 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/TOMAL5085/TOMAL5085/main/1685253299600.jpg"
-       alt="Tomal's Signature"
-       width="180"
-       style="filter: invert(1) brightness(2); margin-top: -10px;" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Rezanur%20Rahman%20Tomal&fontSize=42&fontColor=ffffff&desc=CSE%20Student%20%7C%20AI%20%26%20Cybersecurity%20Enthusiast&descSize=18&descAlignY=72&animation=fadeIn" />
 </p>
 
-<h1 align="center">Hi 👋, I'm Tomal</h1>
-<h3 align="center">🤖 CS Student · AI & Cybersecurity Enthusiast · Aspiring Researcher</h3>
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=00F2FE&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B%2C+I'm+Rezanur+Rahman+Tomal;Full-Stack+Developer+%7C+ML+Practitioner;Cybersecurity+Explorer+%7C+Researcher;Open+to+Collaboration+%26+Tech+Roles" />
+</h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=TOMAL5085&label=Profile%20Views&color=302b63&style=flat-square" />
-  <a href="https://www.kaggle.com/rezanurrahmantomal">
-    <img src="https://img.shields.io/badge/Kaggle-Competitor-20BEFF?style=flat-square&logo=kaggle&logoColor=white" />
-  </a>
-  <img src="https://img.shields.io/badge/Open%20to-Research%20Collaboration-brightgreen?style=flat-square" />
+  <img src="https://komarev.com/ghpvc/?username=TOMAL5085&label=Profile+Views&color=0e75b6&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Focus-AI%20%26%20Cybersecurity-blueviolet?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Goal-Erasmus%20Mundus%20Scholar-orange?style=for-the-badge" />
 </p>
 
 ---
 
-## 🧑‍💻 About Me
+## 🧬 About Me
 
-I'm a Computer Science student with a deep passion for **Artificial Intelligence**, **Cybersecurity**, and **Full-Stack Development**. I enjoy building real-world software and experimenting with different technologies and tech stacks. I learn best by doing — and I'm constantly doing.
+> *"Open to Research Collaboration & Tech Roles | CSE @ EDU | Exploring Cutting-Edge Technologies"*
 
-- 🔭 Currently working on a **Job Application Tracker**
-- 🌱 Exploring **Next.js**, **Advanced Backend Development**, and **Cybersecurity**
-- 🧠 Actively competing in **Kaggle ML competitions** (BirdCLEF+ 2026, Orbit Wars)
-- 🎓 Aspiring to pursue a **Master's via Erasmus Mundus Scholarship** in AI or Cybersecurity
-- ✍️ Interested in **writing and publishing research papers**
+I'm a Computer Science & Engineering student with a genuine passion for building things that matter — from full-stack web applications to machine learning models and cybersecurity tooling. I learn best by doing: diving into competitions, open-source projects, and real-world problem-solving.
+
+- 🔭 Currently building a **Job Application Tracker** and sharpening my **Next.js & Advanced Backend** skills
+- 🤖 Actively participating in **Kaggle ML competitions** — including BirdCLEF+ 2026 and Orbit Wars
+- 🔐 Exploring **Cybersecurity concepts** with hands-on experience in **Kali Linux**
+- 📝 Aspiring to write and publish **research papers** in AI & related fields
+- 🎓 Targeting a **Master's degree via Erasmus Mundus Scholarship** (AI or Cybersecurity track)
 - 🤝 Open to **Research Collaboration** and **Tech Roles**
-- ⚡ Fun fact: I tinker with **Kali Linux** and love breaking things to understand them
+- ⚡ Fun fact: I learn best by building. Always have a project running!
 
 ---
 
@@ -39,9 +37,9 @@ I'm a Computer Science student with a deep passion for **Artificial Intelligence
   <img src="https://skillicons.dev/icons?i=js,python,c" />
 </p>
 
-### 🧩 Frameworks & Libraries
+### 🌐 Web Development
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express" />
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,nextjs,html,css" />
 </p>
 
 ### 🗄️ Databases
@@ -49,64 +47,88 @@ I'm a Computer Science student with a deep passion for **Artificial Intelligence
   <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
 </p>
 
-### ⚙️ Tools & Technologies
+### 🔧 Tools & Platforms
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,figma,linux,kali" />
+  <img src="https://skillicons.dev/icons?i=git,github,figma,linux,vscode" />
 </p>
 
 ### 🤖 AI / ML Stack
-| Area | Tools & Libraries |
+
+| Domain | Tools & Libraries |
 |---|---|
-| Deep Learning | PyTorch, scikit-learn |
-| Computer Vision | EfficientNet-B0, OpenCV |
-| Audio Processing | Librosa, Mel Spectrograms |
-| Data Analysis | Pandas, NumPy |
+| **Deep Learning** | PyTorch, scikit-learn |
+| **Computer Vision** | EfficientNet-B0, OpenCV |
+| **Audio Processing** | Librosa, Mel Spectrograms |
+| **Data Analysis** | Pandas, NumPy |
+| **Competitions** | Kaggle |
 
 ---
 
-## 🚀 Highlights & Achievements
+## 🚀 Career Highlights
 
-- 🏆 Participated in **Kaggle BirdCLEF+ 2026** — audio classification using Deep Learning & Mel Spectrograms
-- 🛸 Competed in **Kaggle Orbit Wars** — applied ML strategies in a competitive simulation environment
-- 🌐 Built multiple **full-stack web applications** using the MERN stack
-- 🔐 Actively exploring **cybersecurity concepts and practices** with Kali Linux
-- 🧬 Applied **Computer Vision** techniques with EfficientNet-B0 for image classification tasks
+<table>
+  <tr>
+    <td>🏆</td>
+    <td>Participated in <strong>BirdCLEF+ 2026</strong> Kaggle competition — audio classification using Mel Spectrograms & deep learning</td>
+  </tr>
+  <tr>
+    <td>🛸</td>
+    <td>Competed in <strong>Orbit Wars</strong> Kaggle challenge — applied ML techniques to complex real-world datasets</td>
+  </tr>
+  <tr>
+    <td>🌐</td>
+    <td>Built multiple <strong>full-stack web applications</strong> using MERN stack and modern tooling</td>
+  </tr>
+  <tr>
+    <td>🔬</td>
+    <td>Applied <strong>EfficientNet-B0</strong> for computer vision tasks with practical implementation experience</td>
+  </tr>
+  <tr>
+    <td>🔐</td>
+    <td>Exploring <strong>Cybersecurity</strong> concepts hands-on with Kali Linux</td>
+  </tr>
+</table>
 
 ---
 
-## 🎯 Goals & Vision
+## 🎯 Goals & Passions
 
-```text
-🤖  Master AI/ML — from models to deployment
-🔐  Deepen expertise in Cybersecurity & Ethical Hacking
-📄  Publish research in AI, Robotics, or Security
-🎓  Erasmus Mundus Master's in AI or Cybersecurity
-🌍  Contribute to impactful open-source projects
 ```
+🧠  Artificial Intelligence ──────────────────────────── ████████████████ 100%
+🔐  Cybersecurity ────────────────────────────────────── ████████████░░░░  75%
+🌐  Full-Stack Web Dev ───────────────────────────────── ███████████████░  90%
+📊  Machine Learning ─────────────────────────────────── █████████████░░░  80%
+📝  Research & Publication ───────────────────────────── ███████░░░░░░░░░  45%
+```
+
+- 🎓 Aspiring **Erasmus Mundus Scholar** — targeting AI and Cybersecurity programmes
+- 📄 Working towards writing and publishing **research papers** in AI/ML
+- 🤝 Open to **open-source contributions**, **research collaborations**, and **tech internships/roles**
+- 🌍 Long-term vision: contribute to cutting-edge research in Europe's AI ecosystem
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TOMAL5085&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TOMAL5085&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=TOMAL5085&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TOMAL5085&layout=compact&theme=tokyonight&hide_border=true" width="40%" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=TOMAL5085&theme=tokyonight&hide_border=true&cache_seconds=1800" />
+  <img src="https://streak-stats.demolab.com?user=TOMAL5085&theme=tokyonight&hide_border=true&cache_seconds=1800" width="60%" />
 </p>
 
 ---
 
-## 🌐 Connect with Me
+## 🌐 Connect With Me
 
 <p align="center">
   <a href="https://github.com/TOMAL5085" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-TOMAL5085-000?style=for-the-badge&logo=github" />
+    <img src="https://img.shields.io/badge/GitHub-TOMAL5085-000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/tomal2006/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Rezanur%20Rahman%20Tomal-0077B5?style=for-the-badge&logo=linkedin" />
+    <img src="https://img.shields.io/badge/LinkedIn-Rezanur%20Rahman%20Tomal-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://www.kaggle.com/rezanurrahmantomal" target="_blank">
     <img src="https://img.shields.io/badge/Kaggle-rezanurrahmantomal-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
@@ -115,14 +137,12 @@ I'm a Computer Science student with a deep passion for **Artificial Intelligence
     <img src="https://img.shields.io/badge/Email-tomal5085@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="tel:+8801886194285">
-    <img src="https://img.shields.io/badge/Phone-%2B880%201886194285-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+    <img src="https://img.shields.io/badge/Phone-%2B8801886194285-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer&fontSize=16&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer&fontSize=16&fontColor=ffffff&desc=Always+Learning.+Always+Building.+Always+Growing.&descAlignY=60" />
 </p>
-
-<p align="center"><i>⭐ Always learning · Always building · Always curious 🚀</i></p>
