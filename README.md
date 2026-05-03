@@ -6,17 +6,16 @@
 
 ## 🧬 About Me
 
-> *"Open to Research Collaboration & Tech Roles | CSE @ EDU | Exploring Cutting-Edge Technologies"*
+**Open to Research Collaboration & Tech Roles | CSE @ EDU | Exploring Cutting-Edge Technologies**
 
-I'm a Computer Science & Engineering student with a genuine passion for building things that matter — from full-stack web applications to machine learning models and cybersecurity tooling. I learn best by doing: diving into competitions, open-source projects, and real-world problem-solving.
+I enjoy building real-world software and experimenting with different technologies and tech stacks. Actively participate in machine learning competitions on Kaggle and continuously learn by doing.
 
-- 🔭 Currently building a **Job Application Tracker** and sharpening my **Next.js & Advanced Backend** skills
-- 🤖 Actively participating in **Kaggle ML competitions** — including BirdCLEF+ 2026 and Orbit Wars
-- 🔐 Exploring **Cybersecurity concepts** with hands-on experience in **Kali Linux**
-- 📝 Aspiring to write and publish **research papers** in AI & related fields
-- 🎓 Targeting a **Master's degree via Erasmus Mundus Scholarship** (AI or Cybersecurity track)
-- 🤝 Open to **Research Collaboration** and **Tech Roles**
-- ⚡ Fun fact: I learn best by building. Always have a project running!
+---
+
+## 🚀 Career Achievements
+
+- 🏆 Participated in Kaggle competitions including **BirdCLEF+ 2026** and **Orbit Wars**
+- 🌐 Created multiple real-world projects including **web apps** and **software solutions** using modern tech stacks
 
 ---
 
@@ -54,47 +53,37 @@ I'm a Computer Science & Engineering student with a genuine passion for building
 
 ---
 
-## 🚀 Career Highlights
+## 🎯 Passion & Goals
 
-<table>
-  <tr>
-    <td>🏆</td>
-    <td>Participated in <strong>BirdCLEF+ 2026</strong> Kaggle competition — audio classification using Mel Spectrograms & deep learning</td>
-  </tr>
-  <tr>
-    <td>🛸</td>
-    <td>Competed in <strong>Orbit Wars</strong> Kaggle challenge — applied ML techniques to complex real-world datasets</td>
-  </tr>
-  <tr>
-    <td>🌐</td>
-    <td>Built multiple <strong>full-stack web applications</strong> using MERN stack and modern tooling</td>
-  </tr>
-  <tr>
-    <td>🔬</td>
-    <td>Applied <strong>EfficientNet-B0</strong> for computer vision tasks with practical implementation experience</td>
-  </tr>
-  <tr>
-    <td>🔐</td>
-    <td>Exploring <strong>Cybersecurity</strong> concepts hands-on with Kali Linux</td>
-  </tr>
-</table>
+- 🧠 Passionate about **Artificial Intelligence** and **Cybersecurity**
+- 🎓 Aspiring to pursue a **Master's degree** through the **Erasmus Mundus Scholarship** in AI or Cybersecurity
+- 📝 Interested in **writing and publishing research papers**
+- 🤝 Open to **Research Collaboration** and **Tech Roles**
 
 ---
 
-## 🎯 Goals & Passions
+## 🌐 Connect With Me
 
-```
-🧠  Artificial Intelligence ──────────────────────────── ████████████████ 100%
-🔐  Cybersecurity ────────────────────────────────────── ████████████░░░░  75%
-🌐  Full-Stack Web Dev ───────────────────────────────── ███████████████░  90%
-📊  Machine Learning ─────────────────────────────────── █████████████░░░  80%
-📝  Research & Publication ───────────────────────────── ███████░░░░░░░░░  45%
-```
-
-- 🎓 Aspiring **Erasmus Mundus Scholar** — targeting AI and Cybersecurity programmes
-- 📄 Working towards writing and publishing **research papers** in AI/ML
-- 🤝 Open to **open-source contributions**, **research collaborations**, and **tech internships/roles**
-- 🌍 Long-term vision: contribute to cutting-edge research in Europe's AI ecosystem
+<p align="center">
+  <a href="https://github.com/TOMAL5085" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-TOMAL5085-000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.kaggle.com/rezanurrahmantomal" target="_blank">
+    <img src="https://img.shields.io/badge/Kaggle-rezanurrahmantomal-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/tomal2006/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Rezanur%20Rahman%20Tomal-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://x.com/TOMAL2006" target="_blank">
+    <img src="https://img.shields.io/badge/X-TOMAL2006-000000?style=for-the-badge&logo=x&logoColor=white" />
+  </a>
+  <a href="mailto:tomal5085@gmail.com">
+    <img src="https://img.shields.io/badge/Email-tomal5085@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="tel:+8801886194285">
+    <img src="https://img.shields.io/badge/Phone-%2B8801886194285-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  </a>
+</p>
 
 ---
 
@@ -109,26 +98,8 @@ I'm a Computer Science & Engineering student with a genuine passion for building
   <img src="https://streak-stats.demolab.com?user=TOMAL5085&theme=tokyonight&hide_border=true&cache_seconds=1800" width="60%" />
 </p>
 
----
-
-## 🌐 Connect With Me
-
 <p align="center">
-  <a href="https://github.com/TOMAL5085" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-TOMAL5085-000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/tomal2006/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Rezanur%20Rahman%20Tomal-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://www.kaggle.com/rezanurrahmantomal" target="_blank">
-    <img src="https://img.shields.io/badge/Kaggle-rezanurrahmantomal-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
-  </a>
-  <a href="mailto:tomal5085@gmail.com">
-    <img src="https://img.shields.io/badge/Email-tomal5085@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="tel:+8801886194285">
-    <img src="https://img.shields.io/badge/Phone-%2B8801886194285-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-  </a>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TOMAL5085&theme=tokyo-night&hide_border=true" width="90%" />
 </p>
 
 ---
