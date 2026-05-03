@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Rezanur%20Rahman%20Tomal&fontSize=42&fontColor=ffffff&desc=CSE%20Student%20%7C%20AI%20%26%20Cybersecurity%20Enthusiast&descSize=18&descAlignY=72&animation=fadeIn" />
+  <img src="1685253299600.jpg" alt="Tomal Signature" width="220" />
 </p>
 
 <h1 align="center">
